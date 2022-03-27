@@ -1,7 +1,7 @@
 """JSON API implementation for aiohttp."""
 
 import inspect
-from collections import MutableMapping, Sequence
+from collections.abc import MutableMapping, Sequence
 
 __author__ = """Vladimir Bolshakov"""
 __email__ = 'vovanbo@gmail.com'
